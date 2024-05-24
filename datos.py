@@ -1,30 +1,30 @@
 SMLV=1300000
 
 datos_sistemas = [
-    ['Jorge Fabian', 'Ortiz Jimenez', 'Analista Junior', 2350000],
-    ['María Luisa', 'Gómez Pérez', 'Desarrollador Semi', 4800000],
-    ['Carlos Steven', 'Hernández García', 'Lider de Proyecto', 3500000],
-    ['Ana María', 'Ramírez Rodríguez', 'Desarrollador Móvil', 7700000],
-    ['Luis Joaquin', 'Martínez Sánchez', 'Diseñador UX', 3000000],
-    ['Laura', 'Fernández López', 'Analista de Datos', 4600000],
-    ['Angel Mario', 'Díaz Hernández', 'Tester', 5200000],
-    ['Stephany', 'Gutiérrez Cruz', 'Desarrollador Backend Senior', 7125000],
-    ['Pedro David', 'Castillo Medina', 'Desarrollador Full Stack', 5900000],
-    ['Sara', 'Torres Ruiz', 'Analista de Seguridad', 3100000]
+    ['Fernando', 'Navarro Gómez', 'Analista Junior', 2500000],
+    ['Luisa Fernanda', 'Martínez Silva', 'Desarrollador Semi', 4700000],
+    ['Juan Sebastián', 'Rojas Gómez', 'Lider de Proyecto', 3600000],
+    ['Paola Andrea', 'Mendoza Gutiérrez', 'Desarrollador Móvil', 7800000],
+    ['Carlos Alberto', 'Pérez Ramírez', 'Diseñador UX', 3100000],
+    ['Camila', 'Torres González', 'Analista de Datos', 4700000],
+    ['Miguel Ángel', 'Duarte Fernández', 'Tester', 5300000],
+    ['Natalia', 'Hernández Muñoz', 'Desarrollador Backend Senior', 7200000],
+    ['David Alejandro', 'Jiménez López', 'Desarrollador Full Stack', 6000000],
+    ['Mónica', 'Vargas Castro', 'Analista de Seguridad', 3200000]
 ]
 
 datos_ventas = [
-    ['Valeria', 'Martínez García', 'Supervisor de Ventas', 3100000],
-    ['Alejandra', 'Gomez Silva', 'Vendedor Mayorista', 3870000],
-    ['Ricardo', 'Hernández Rodríguez', 'Vendedor', 2500000],
-    ['Andrés Julián', 'Díaz López', 'Vendedor', 2550000],
-    ['Mariana', 'Fernández Pérez', 'Vendedor', 2550000],
+    ['Andrea', 'López García', 'Supervisor de Ventas', 3200000],
+    ['Sofía', 'Rodríguez Fernández', 'Vendedor Mayorista', 3950000],
+    ['Jorge', 'González Martínez', 'Vendedor', 2600000],
+    ['Manuel', 'García Ruiz', 'Vendedor', 2650000],
+    ['Patricia', 'Sánchez Torres', 'Vendedor', 2650000],
 ]
 
 datos_mercadeo = [
-    ['Lorena', 'Torres Ramírez', 'Especialista en Marketing', 3900000],
-    ['Isabella', 'Díaz Sánchez', 'Analista de Mercadeo', 2700000],
-    ['Veronica', 'García Torres', 'Coordinador de Marketing', 3000000],
-    ['Jimmy', 'Hernández Ruiz', 'Analista de Mercadeo', 2700000],
+    ['Carolina', 'Jiménez Sánchez', 'Especialista en Marketing', 4000000],
+    ['Adriana', 'Pérez Ramírez', 'Analista de Mercadeo', 2800000],
+    ['Cristian', 'Ramírez Torres', 'Coordinador de Marketing', 3100000],
+    ['Katherine', 'Mendoza Ruiz', 'Analista de Mercadeo', 2800000],
 ]
 
