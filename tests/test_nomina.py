@@ -8,12 +8,12 @@ from empresa import Empresa
 class TestNomina(unittest.TestCase):
     def setUp(self):
         self.gerente = Gerente("Gerente", "Prueba", 13 * SMLV)
-        self.empleado1 = Empleado("Empleado1", "Prueba", "Cargo1", 3000000)
-        self.empleado2 = Empleado("Empleado2", "Prueba", "Cargo2", 4000000)
-        self.departamento = Departamento("Departamento de Prueba", self.gerente)
+        self.empleado1 = Empleado("Empleado1", "Prueba", "Cargo Analista", 3000000)
+        self.empleado2 = Empleado("Empleado2", "Prueba", "Cargo Auxiliar", 4000000)
+        self.departamento = Departamento("Departamento Control Interno", self.gerente)
         self.departamento.agregar_empleado(self.empleado1)
         self.departamento.agregar_empleado(self.empleado2)
-        self.empresa = Empresa("Empresa de Prueba", [self.departamento])
+        self.empresa = Empresa("Empresa FinTech INC", [self.departamento])
 
     def test_calcular_salario_gerente(self):
         self.assertEqual(self.gerente.calcular_salario(), 13 * SMLV)
